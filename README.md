@@ -1,2 +1,3 @@
 # Coffee-Shop-Landing-Page-UI
-UI for a Coffee Shop. 
+Responsive UI for coffee shop.
+UI for a Coffee Shop. Done Entirely in Html and CSS, No framework. 
